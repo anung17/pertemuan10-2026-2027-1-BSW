@@ -70,6 +70,6 @@ st.plotly_chart( grafik )
 
 st.write()
 
-https://share.streamlit.io/
-https://github.com/
-https://proyek-kelompok-ela6105.streamlit.app/
+#https://share.streamlit.io/
+#https://github.com/
+#https://proyek-kelompok-ela6105.streamlit.app/
